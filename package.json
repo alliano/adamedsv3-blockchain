@@ -1,0 +1,23 @@
+{
+  "name": "adamedsv3-blockchanin",
+  "version": "1.0.0",
+  "description": "adamedsv3 blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alliano/adamedsv3-blockchain.git"
+  },
+  "author": "anata_alliano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alliano/adamedsv3-blockchain/issues"
+  },
+  "homepage": "https://github.com/alliano/adamedsv3-blockchain#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.16"
+  }
+}
